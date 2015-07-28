@@ -1,0 +1,6 @@
+e:\Projects\SeqCalc\SeqCalc\obj\Debug\SeqCalc.csprojResolveAssemblyReference.cache
+E:\Projects\SeqCalc\SeqCalc\bin\SeqCalc.dll.config
+E:\Projects\SeqCalc\SeqCalc\bin\SeqCalc.dll
+E:\Projects\SeqCalc\SeqCalc\bin\SeqCalc.pdb
+E:\Projects\SeqCalc\SeqCalc\obj\Debug\SeqCalc.dll
+E:\Projects\SeqCalc\SeqCalc\obj\Debug\SeqCalc.pdb
